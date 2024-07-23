@@ -1,0 +1,27 @@
+{
+  "name": "township-business-directory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Puseletso Mafisa",
+  "license": "ISC",
+  "description": " A chatbot-powered directory for small businesses in the township",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richjerk/township-business-directory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Richjerk/township-business-directory/issues"
+  },
+  "homepage": "https://github.com/Richjerk/township-business-directory#readme"
+}

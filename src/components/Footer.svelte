@@ -1,0 +1,3 @@
+<footer class="bg-gray-800 py-4 text-center text-gray-400">
+  <p>&copy; 2024 Township Business Directory. All rights reserved.</p>
+</footer>
